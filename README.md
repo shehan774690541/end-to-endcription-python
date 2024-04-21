@@ -36,7 +36,7 @@ This Python script provides a secure messaging system using RSA encryption. It a
 ## Installation
 
 1. Clone this repository:
-- ``
+- `https://github.com/shehan774690541/end-to-endcription-python.git`
 2. Install the required dependencies:
 - `pip install cryptography`
 3. Run the script:
